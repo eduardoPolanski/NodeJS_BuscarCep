@@ -17,6 +17,6 @@ Mustache -
 		
     $ npm install
 
- # Iniciando proteto
+ # Iniciando projeto
 
 	$ npm start 
