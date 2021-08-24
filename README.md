@@ -2,10 +2,10 @@
 
 ## 🚀 Tecnologias
 
-Axios
-Express
-NodeJs
-Mustache
+Axios -
+Express -
+NodeJs - 
+Mustache -
 
 # Clone o repositorio
 
