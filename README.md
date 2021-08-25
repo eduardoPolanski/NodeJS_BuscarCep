@@ -11,7 +11,7 @@ Mustache -
 
     $ git clone https://github.com/eduardoPolanski/NodeJS_BuscarCep.git
   
-    $ cd node-buscarendereco
+    $ cd NodeJS_BuscarCep
 
 # Instalando Dependências
 		
